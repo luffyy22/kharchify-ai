@@ -1,0 +1,66 @@
+# Part B example outputs ('today' = Tue 17 Nov 2026, the last date in sales.csv)
+# Reproduce: python part_b_sales_qa.py --ask "<question>"
+
+Q: What were the top 3 dishes yesterday?
+A: Top 3 dishes by units sold yesterday (Mon 16 Nov 2026):
+  1. Fish Fingers — 4 units (₹1,120)
+  2. Dal Makhani — 4 units (₹840)
+  3. Cold Coffee — 4 units (₹440)
+
+Q: How much did we sell today?
+A: Total sales today (Tue 17 Nov 2026): ₹9,315 (66 units across 30 dishes).
+
+Q: How many butter naan were sold this week?
+A: Butter Naan: 0 units sold this week (Mon 16 Nov – Tue 17 Nov 2026), worth ₹0.
+(This week covers only 2 days so far; ask for 'the last 7 days' for a rolling week.)
+
+Q: How many butter naan were sold in the last 7 days?
+A: Butter Naan: 4 units sold in the last 7 days (Wed 11 Nov – Tue 17 Nov 2026), worth ₹200.
+
+Q: Which day had the highest sales?
+A: The day with the highest sales across all available data (Tue 20 Oct – Tue 17 Nov 2026) was Sun 1 Nov 2026: ₹13,665 from 98 units.
+
+Q: Show me sales by category last week
+A: Sales by category last week (Mon 9 Nov – Sun 15 Nov 2026):
+  - Main Course: ₹29,995 (38%), 121 units
+  - Rice: ₹19,000 (24%), 88 units
+  - Starter: ₹11,455 (15%), 69 units
+  - Beverage: ₹7,860 (10%), 116 units
+  - Dessert: ₹5,890 (7%), 51 units
+  - Bread: ₹4,390 (6%), 93 units
+  Total: ₹78,590
+
+Q: Top 3 desserts in the last 7 days
+A: Top 3 dessert dishes by units sold in the last 7 days (Wed 11 Nov – Tue 17 Nov 2026):
+  1. Gulab Jamun — 13 units (₹1,170)
+  2. Rasmalai — 9 units (₹1,080)
+  3. Kaju Katli — 4 units (₹600)
+Note: 1 other dish also sold 4 units, tied with the last place shown.
+
+Q: How many panner butter masla did we sell this month?
+A: Paneer Butter Masala: 30 units sold this month (Sun 1 Nov – Tue 17 Nov 2026), worth ₹7,800.
+Interpreted "panner butter masla" as Paneer Butter Masala.
+
+Q: What was the average sales per day this month?
+A: Average per day this month (Sun 1 Nov – Tue 17 Nov 2026), over 17 days: ₹10,992 in sales and 78.7 units.
+
+Q: What is the price of butter naan?
+A: Butter Naan is priced at ₹50.
+
+Q: What is the capital of France?
+A: Sorry, I'm not sure how to answer that. I'd rather not guess. I can answer questions about the sales data (Tue 20 Oct – Tue 17 Nov 2026), for example:
+  - What were the top 3 dishes yesterday?
+  - How much did we sell today?
+  - How many butter naan were sold this week?
+  - Which day had the highest sales?
+  - Show me sales by category last week
+
+Q: What was our profit yesterday?
+A: sales.csv only has quantities and selling prices, so I can't work out profit, margin or costs. I can tell you revenue, though.
+
+Q: How many burgers were sold today?
+A: I couldn't find "burgers" on the menu.
+
+Q: How much did we sell in December?
+A: I don't have any sales data for Mon 1 Dec – Wed 31 Dec 2025. The data covers Tue 20 Oct – Tue 17 Nov 2026.
+

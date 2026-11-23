@@ -1,0 +1,145 @@
+== Cleaning ==
+  rows_in: 130
+  missing_dropped: 0
+  categories_fixed: 0
+  conflicting_labels_dropped: 0
+  conflicting_examples: []
+  duplicates_dropped: 0
+  unexpected_categories: []
+  rows_out: 130
+
+Class balance:
+category
+Starter        25
+Main Course    25
+Dessert        20
+Bread          20
+Rice           20
+Beverage       20
+
+Train: 104 rows | Test: 26 rows (stratified, seed=42)
+
+== Model selection: 5x5 repeated CV on the TRAINING set only ==
+  word       CV accuracy = 0.712 +/- 0.090
+  word+char  CV accuracy = 0.765 +/- 0.078
+
+== Held-out TEST set (each model fitted on train only, scored once) ==
+  word       accuracy = 0.577 | macro-F1 = 0.561
+  word+char  accuracy = 0.577 | macro-F1 = 0.558
+
+Per-category report for 'word+char':
+              precision    recall  f1-score   support
+
+     Starter       0.50      0.40      0.44         5
+ Main Course       0.38      0.60      0.46         5
+       Bread       1.00      1.00      1.00         4
+        Rice       1.00      1.00      1.00         4
+     Dessert       0.40      0.50      0.44         4
+    Beverage       0.00      0.00      0.00         4
+
+    accuracy                           0.58        26
+   macro avg       0.55      0.58      0.56        26
+weighted avg       0.54      0.58      0.55        26
+
+== Stability check: 5x5 CV on ALL cleaned data ==
+  word       accuracy = 0.735 +/- 0.069
+  word+char  accuracy = 0.757 +/- 0.064
+
+== How trustworthy is the single 26-row test number? ==
+  word+char: 15/26 correct -> 95% CI for true accuracy ~ 0.39 to 0.74
+  word       over 200 random splits: mean 0.718, sd 0.076, 5th-95th pct 0.62-0.85
+  word+char  over 200 random splits: mean 0.741, sd 0.077, 5th-95th pct 0.62-0.85
+  seed-42 split (0.577) is worse than 98.5% of random splits.
+
+Test-set mistakes:
+      dish_name        true        pred
+  Veg Kolhapuri Main Course     Starter
+    Fruit Salad     Dessert    Beverage
+    Malai Kofta Main Course     Dessert
+   Paneer Tikka     Starter Main Course
+   Cutting Chai    Beverage Main Course
+         Samosa     Starter     Dessert
+Chocolate Shake    Beverage     Dessert
+        Falooda     Dessert     Starter
+     Aloo Tikki     Starter Main Course
+    Masala Chai    Beverage Main Course
+    Masala Soda    Beverage Main Course
+
+== Where it goes wrong (out-of-fold, all dishes) ==
+           dish_name        true        pred  confidence  correct
+        Masala Papad     Starter Main Course    0.893561    False
+Chicken Tikka Masala Main Course     Starter    0.872647    False
+         Masala Chai    Beverage Main Course    0.634568    False
+          Aloo Tikki     Starter Main Course    0.617406    False
+          Chicken 65     Starter Main Course    0.549472    False
+         Shahi Tukda     Dessert Main Course    0.519813    False
+     Chocolate Shake    Beverage     Dessert    0.478329    False
+    Chocolate Mousse     Dessert    Beverage    0.469978    False
+        Chana Masala Main Course    Beverage    0.461811    False
+            Dum Aloo Main Course     Starter    0.460021    False
+        Fish Fingers     Starter Main Course    0.433127    False
+       Veg Kolhapuri Main Course     Starter    0.410600    False
+           Aloo Gobi Main Course     Starter    0.393177    False
+     Moong Dal Halwa     Dessert Main Course    0.392479    False
+     Paneer Lababdar Main Course     Starter    0.386569    False
+    Tandoori Chicken     Starter Main Course    0.385465    False
+         Masala Soda    Beverage Main Course    0.356624    False
+               Kulfi     Dessert       Bread    0.326760    False
+              Samosa     Starter     Dessert    0.301518    False
+             Falooda     Dessert     Starter    0.292677    False
+          Buttermilk    Beverage Main Course    0.285544    False
+               Kheer     Dessert Main Course    0.280536    False
+             Khichdi        Rice     Dessert    0.271971    False
+              Phirni     Dessert     Starter    0.268299    False
+          Kaju Katli     Dessert Main Course    0.263545    False
+         Fruit Salad     Dessert     Starter    0.255069    False
+              Mojito    Beverage     Dessert    0.250539    False
+            Rasmalai     Dessert Main Course    0.235252    False
+            Jaljeera    Beverage     Starter    0.221020    False
+      Baingan Bharta Main Course     Starter    0.208468    False
+
+Confidence cut-off analysis:
+ threshold  auto-accepted %  accuracy when accepted  accuracy when flagged
+       0.4             78.5                    88.2                   35.7
+       0.5             69.2                    93.3                   40.0
+       0.6             54.6                    94.4                   55.9
+
+== Dishes NOT in dishes.csv ==
+          dish_name    expected   predicted  confidence  correct
+ Butter Garlic Naan       Bread       Bread        0.91     True
+      Butter Kulcha       Bread       Bread        0.94     True
+     Paneer Paratha       Bread       Bread        0.81     True
+    Mango Milkshake    Beverage    Beverage        0.73     True
+     Lemon Iced Tea    Beverage    Beverage        0.75     True
+      Hot Chocolate    Beverage     Dessert        0.45    False
+         Cappuccino    Beverage     Starter        0.25    False
+         Rose Lassi    Beverage    Beverage        0.85     True
+           Lemonade    Beverage     Dessert        0.22    False
+   Chicken Lollipop     Starter     Starter        0.60     True
+    Gobi Manchurian     Starter     Starter        0.47     True
+    Tandoori Paneer     Starter     Starter        0.61     True
+         Fish Tikka     Starter     Starter        0.87     True
+       Chicken Soup     Starter     Starter        0.94     True
+       Mutton Pulao        Rice        Rice        0.71     True
+    Veg Dum Biryani        Rice        Rice        0.93     True
+        Jeera Pulao        Rice        Rice        0.84     True
+          Egg Pulao        Rice        Rice        0.85     True
+              Rabri     Dessert     Dessert        0.27     True
+           Tiramisu     Dessert     Starter        0.27    False
+Chocolate Lava Cake     Dessert    Beverage        0.43    False
+            Basundi     Dessert     Dessert        0.31     True
+         Kala Jamun     Dessert     Dessert        0.73     True
+            Dal Fry Main Course Main Course        0.73     True
+    Mushroom Masala Main Course Main Course        0.50     True
+   Chicken Lababdar Main Course Main Course        0.78     True
+    Kadhai Mushroom Main Course     Starter        0.42    False
+Paneer Tikka Masala Main Course Main Course        0.72     True
+
+Accuracy on these 28 unseen dishes: 0.786
+
+== predict_category() ==
+  Butter Garlic Naan     -> Bread
+  Mango Milkshake        -> Beverage
+  Chicken Lollipop       -> Starter
+  Tiramisu               -> Starter
+  Mutton Pulao           -> Rice

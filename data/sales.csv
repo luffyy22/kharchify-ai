@@ -1,0 +1,938 @@
+date,item,quantity,price
+2026-10-20,Brownie with Ice Cream,1,160
+2026-10-20,Butter Naan,1,50
+2026-10-20,Chana Masala,3,190
+2026-10-20,Chicken Biryani,1,290
+2026-10-20,Chicken Fried Rice,3,200
+2026-10-20,Dal Makhani,2,210
+2026-10-20,Egg Fried Rice,2,170
+2026-10-20,Filter Coffee,1,50
+2026-10-20,Fish Fingers,1,280
+2026-10-20,Fresh Lime Soda,2,60
+2026-10-20,Garlic Naan,4,60
+2026-10-20,Gulab Jamun,2,90
+2026-10-20,Kadai Chicken,2,310
+2026-10-20,Kadai Paneer,3,250
+2026-10-20,Kaju Katli,2,150
+2026-10-20,Masala Chai,2,30
+2026-10-20,Masala Papad,1,50
+2026-10-20,Paneer Butter Masala,5,260
+2026-10-20,Paneer Pakoda,1,150
+2026-10-20,Paneer Tikka,2,220
+2026-10-20,Phirni,1,100
+2026-10-20,Schezwan Fried Rice,2,190
+2026-10-20,Shahi Tukda,2,130
+2026-10-20,Sweet Lassi,3,80
+2026-10-20,Tandoori Chicken,1,290
+2026-10-20,Tandoori Roti,3,25
+2026-10-20,Tomato Rice,2,130
+2026-10-20,Veg Biryani,1,230
+2026-10-20,Watermelon Juice,4,80
+2026-10-20,Whole Wheat Roti,3,20
+2026-10-21,Butter Chicken,1,320
+2026-10-21,Cheese Corn Balls,1,175
+2026-10-21,Chicken Biryani,1,290
+2026-10-21,Chilli Paneer,2,210
+2026-10-21,Cold Drink,3,40
+2026-10-21,Dal Makhani,2,210
+2026-10-21,Dal Tadka,5,170
+2026-10-21,Dum Biryani,2,300
+2026-10-21,Fresh Lime Soda,4,60
+2026-10-21,Jeera Rice,8,120
+2026-10-21,Kaju Katli,3,150
+2026-10-21,Keema Naan,3,110
+2026-10-21,Khichdi,4,140
+2026-10-21,Manchow Soup,2,125
+2026-10-21,Masala Kulcha,3,65
+2026-10-21,Masala Soda,3,60
+2026-10-21,Moong Dal Halwa,3,120
+2026-10-21,Mutton Keema,1,400
+2026-10-21,Peas Pulao,1,150
+2026-10-21,Rajma Masala,2,180
+2026-10-21,Roomali Roti,1,35
+2026-10-21,Rumali Roti,1,35
+2026-10-21,Sweet Lassi,5,80
+2026-10-21,Tandoori Roti,6,25
+2026-10-21,Veg Biryani,1,230
+2026-10-21,Veg Kolhapuri,1,220
+2026-10-22,Aloo Paratha,4,70
+2026-10-22,Aloo Tikki,1,120
+2026-10-22,Butter Chicken,2,320
+2026-10-22,Butter Naan,2,50
+2026-10-22,Cheese Corn Balls,1,175
+2026-10-22,Chicken Biryani,3,290
+2026-10-22,Cold Coffee,4,110
+2026-10-22,Crispy Corn,2,170
+2026-10-22,Dal Tadka,3,170
+2026-10-22,Fresh Lime Soda,2,60
+2026-10-22,Fresh Orange Juice,1,90
+2026-10-22,Gulab Jamun,7,90
+2026-10-22,Hot and Sour Soup,1,125
+2026-10-22,Jeera Rice,2,120
+2026-10-22,Kaju Katli,4,150
+2026-10-22,Masala Chai,1,30
+2026-10-22,Methi Malai Matar,1,230
+2026-10-22,Mutton Biryani,1,380
+2026-10-22,Peas Pulao,1,150
+2026-10-22,Rasgulla,1,80
+2026-10-22,Rasmalai,1,120
+2026-10-22,Salted Lassi,2,70
+2026-10-22,Shahi Paneer,1,270
+2026-10-22,Sizzling Brownie,3,190
+2026-10-22,Steamed Rice,1,90
+2026-10-22,Sweet Corn Soup,3,120
+2026-10-22,Sweet Lassi,3,80
+2026-10-22,Tandoori Roti,5,25
+2026-10-22,Veg Biryani,2,230
+2026-10-22,Veg Fried Rice,2,160
+2026-10-23,Aloo Tikki,4,120
+2026-10-23,Amritsari Kulcha,4,80
+2026-10-23,Butter Naan,7,50
+2026-10-23,Chicken Biryani,1,290
+2026-10-23,Chicken Fried Rice,3,200
+2026-10-23,Chilli Paneer,6,210
+2026-10-23,Cold Coffee,3,110
+2026-10-23,Dal Makhani,4,210
+2026-10-23,Dal Tadka,1,170
+2026-10-23,Egg Fried Rice,4,170
+2026-10-23,Fish Fingers,1,280
+2026-10-23,Fresh Lime Soda,2,60
+2026-10-23,Fruit Salad,2,110
+2026-10-23,Garlic Naan,6,60
+2026-10-23,Gulab Jamun,1,90
+2026-10-23,Hot and Sour Soup,1,125
+2026-10-23,Hyderabadi Biryani,2,310
+2026-10-23,Ice Cream Vanilla,3,80
+2026-10-23,Kadai Paneer,2,250
+2026-10-23,Masala Chai,2,30
+2026-10-23,Pudina Paratha,4,60
+2026-10-23,Samosa,4,60
+2026-10-23,Sizzling Brownie,1,190
+2026-10-23,Stuffed Paratha,4,75
+2026-10-23,Sundae,2,140
+2026-10-23,Tandoori Chicken,2,290
+2026-10-23,Veg Manchurian,1,180
+2026-10-23,Veg Pulao,1,170
+2026-10-24,Amritsari Kulcha,3,80
+2026-10-24,Banana Shake,2,110
+2026-10-24,Bhindi Masala,2,180
+2026-10-24,Brownie with Ice Cream,2,160
+2026-10-24,Butter Chicken,1,320
+2026-10-24,Butter Naan,6,50
+2026-10-24,Butter Roti,1,30
+2026-10-24,Buttermilk,2,40
+2026-10-24,Chilli Paneer,2,210
+2026-10-24,Chocolate Shake,5,130
+2026-10-24,Cold Coffee,2,110
+2026-10-24,Cold Drink,1,40
+2026-10-24,Dahi Kebab,2,180
+2026-10-24,Dal Makhani,1,210
+2026-10-24,Dal Tadka,2,170
+2026-10-24,Fresh Lime Soda,3,60
+2026-10-24,Garlic Naan,5,60
+2026-10-24,Hot and Sour Soup,1,125
+2026-10-24,Ice Cream Vanilla,2,80
+2026-10-24,Jaljeera,2,50
+2026-10-24,Jeera Rice,4,120
+2026-10-24,Kadai Paneer,4,250
+2026-10-24,Keema Naan,5,110
+2026-10-24,Masala Chai,5,30
+2026-10-24,Masala Soda,3,60
+2026-10-24,Moong Dal Halwa,2,120
+2026-10-24,Mushroom Chilli,1,190
+2026-10-24,Mutton Biryani,1,380
+2026-10-24,Mutton Rogan Josh,1,420
+2026-10-24,Paneer Butter Masala,6,260
+2026-10-24,Paneer Tikka,1,220
+2026-10-24,Pudina Paratha,1,60
+2026-10-24,Rasmalai,2,120
+2026-10-24,Samosa,3,60
+2026-10-24,Shahi Paneer,4,270
+2026-10-24,Sweet Lassi,5,80
+2026-10-24,Tandoori Roti,2,25
+2026-10-24,Veg Pulao,1,170
+2026-10-24,Watermelon Juice,1,80
+2026-10-24,Whole Wheat Roti,4,20
+2026-10-25,Aloo Paratha,3,70
+2026-10-25,Banana Shake,3,110
+2026-10-25,Butter Chicken,1,320
+2026-10-25,Butter Naan,2,50
+2026-10-25,Chana Masala,2,190
+2026-10-25,Cheese Naan,1,85
+2026-10-25,Chicken Biryani,1,290
+2026-10-25,Chicken Curry,2,290
+2026-10-25,Chicken Fried Rice,3,200
+2026-10-25,Chilli Paneer,4,210
+2026-10-25,Chocolate Shake,1,130
+2026-10-25,Cutting Chai,1,20
+2026-10-25,Dal Tadka,1,170
+2026-10-25,Dum Aloo,2,190
+2026-10-25,Gulab Jamun,4,90
+2026-10-25,Ice Cream Chocolate,1,90
+2026-10-25,Jalebi,3,70
+2026-10-25,Jaljeera,1,50
+2026-10-25,Jeera Rice,2,120
+2026-10-25,Kadai Paneer,2,250
+2026-10-25,Masala Chai,7,30
+2026-10-25,Masala Kulcha,1,65
+2026-10-25,Missi Roti,3,45
+2026-10-25,Mushroom Chilli,2,190
+2026-10-25,Mutton Biryani,3,380
+2026-10-25,Palak Paneer,2,240
+2026-10-25,Paneer Butter Masala,2,260
+2026-10-25,Paneer Kulcha,2,90
+2026-10-25,Paneer Tikka,2,220
+2026-10-25,Rasmalai,1,120
+2026-10-25,Roomali Roti,2,35
+2026-10-25,Samosa,2,60
+2026-10-25,Shahi Tukda,3,130
+2026-10-25,Sizzling Brownie,1,190
+2026-10-25,Sweet Lassi,4,80
+2026-10-25,Tandoori Roti,6,25
+2026-10-25,Veg Biryani,3,230
+2026-10-25,Veg Pulao,3,170
+2026-10-25,Veg Seekh Kebab,2,200
+2026-10-25,Whole Wheat Roti,3,20
+2026-10-26,Bhindi Masala,2,180
+2026-10-26,Brownie with Ice Cream,2,160
+2026-10-26,Butter Naan,5,50
+2026-10-26,Chicken Biryani,2,290
+2026-10-26,Chicken Fried Rice,1,200
+2026-10-26,Chocolate Mousse,2,140
+2026-10-26,Cold Coffee,3,110
+2026-10-26,Cold Drink,3,40
+2026-10-26,Dal Makhani,3,210
+2026-10-26,Egg Fried Rice,1,170
+2026-10-26,Garlic Naan,5,60
+2026-10-26,Gulab Jamun,3,90
+2026-10-26,Ice Cream Vanilla,1,80
+2026-10-26,Kadai Paneer,1,250
+2026-10-26,Kaju Katli,2,150
+2026-10-26,Kashmiri Pulao,1,200
+2026-10-26,Methi Malai Matar,3,230
+2026-10-26,Mix Veg Curry,1,180
+2026-10-26,Paneer Kulcha,3,90
+2026-10-26,Paneer Pakoda,1,150
+2026-10-26,Peshawari Naan,5,95
+2026-10-26,Salted Lassi,2,70
+2026-10-26,Schezwan Fried Rice,2,190
+2026-10-26,Shahi Tukda,3,130
+2026-10-26,Stuffed Paratha,2,75
+2026-10-26,Sweet Corn Soup,1,120
+2026-10-26,Tandoori Roti,10,25
+2026-10-26,Tomato Rice,1,130
+2026-10-26,Veg Biryani,2,230
+2026-10-26,Veg Kolhapuri,2,220
+2026-10-27,Banana Shake,2,110
+2026-10-27,Bhindi Masala,1,180
+2026-10-27,Butter Chicken,1,320
+2026-10-27,Cheese Naan,1,85
+2026-10-27,Chicken Biryani,4,290
+2026-10-27,Cold Drink,3,40
+2026-10-27,Dal Makhani,1,210
+2026-10-27,Dal Tadka,3,170
+2026-10-27,Fresh Lime Soda,2,60
+2026-10-27,Garlic Naan,2,60
+2026-10-27,Gulab Jamun,2,90
+2026-10-27,Hot and Sour Soup,2,125
+2026-10-27,Ice Cream Vanilla,4,80
+2026-10-27,Jeera Rice,1,120
+2026-10-27,Keema Naan,2,110
+2026-10-27,Masala Chai,4,30
+2026-10-27,Masala Kulcha,3,65
+2026-10-27,Masala Papad,3,50
+2026-10-27,Mineral Water,1,20
+2026-10-27,Mojito,1,110
+2026-10-27,Palak Paneer,1,240
+2026-10-27,Paneer Biryani,1,260
+2026-10-27,Paneer Pakoda,2,150
+2026-10-27,Peshawari Naan,3,95
+2026-10-27,Pudina Paratha,2,60
+2026-10-27,Roomali Roti,1,35
+2026-10-27,Samosa,4,60
+2026-10-27,Sweet Lassi,1,80
+2026-10-27,Tandoori Roti,3,25
+2026-10-27,Veg Biryani,1,230
+2026-10-27,Veg Fried Rice,1,160
+2026-10-28,Butter Chicken,1,320
+2026-10-28,Butter Naan,4,50
+2026-10-28,Chana Masala,1,190
+2026-10-28,Chicken Biryani,1,290
+2026-10-28,Chilli Paneer,1,210
+2026-10-28,Cold Drink,3,40
+2026-10-28,Crispy Corn,1,170
+2026-10-28,Curd Rice,1,110
+2026-10-28,Dal Makhani,2,210
+2026-10-28,Fresh Lime Soda,6,60
+2026-10-28,Fruit Salad,1,110
+2026-10-28,Garlic Naan,3,60
+2026-10-28,Gulab Jamun,2,90
+2026-10-28,Honey Chilli Potato,2,170
+2026-10-28,Ice Cream Chocolate,2,90
+2026-10-28,Jeera Rice,2,120
+2026-10-28,Kadai Paneer,6,250
+2026-10-28,Kashmiri Pulao,2,200
+2026-10-28,Lemon Rice,1,130
+2026-10-28,Methi Malai Matar,1,230
+2026-10-28,Mineral Water,1,20
+2026-10-28,Mix Veg Curry,3,180
+2026-10-28,Mojito,3,110
+2026-10-28,Paneer Tikka,1,220
+2026-10-28,Peas Pulao,3,150
+2026-10-28,Phirni,2,100
+2026-10-28,Plain Naan,6,40
+2026-10-28,Shahi Paneer,1,270
+2026-10-28,Sweet Lassi,1,80
+2026-10-28,Tandoori Roti,1,25
+2026-10-28,Veg Biryani,4,230
+2026-10-29,Aloo Gobi,2,170
+2026-10-29,Aloo Tikki,3,120
+2026-10-29,Butter Chicken,3,320
+2026-10-29,Butter Naan,4,50
+2026-10-29,Chana Masala,2,190
+2026-10-29,Chicken Biryani,1,290
+2026-10-29,Chicken Fried Rice,4,200
+2026-10-29,Chilli Paneer,1,210
+2026-10-29,Chocolate Shake,3,130
+2026-10-29,Cold Coffee,3,110
+2026-10-29,Dal Makhani,4,210
+2026-10-29,Dal Tadka,1,170
+2026-10-29,Fresh Lime Soda,2,60
+2026-10-29,Gulab Jamun,6,90
+2026-10-29,Kashmiri Pulao,4,200
+2026-10-29,Malai Chicken Tikka,1,270
+2026-10-29,Moong Dal Halwa,2,120
+2026-10-29,Mutton Keema,2,400
+2026-10-29,Palak Paneer,3,240
+2026-10-29,Paneer Butter Masala,2,260
+2026-10-29,Paneer Tikka,1,220
+2026-10-29,Peshawari Naan,2,95
+2026-10-29,Phirni,2,100
+2026-10-29,Pudina Paratha,2,60
+2026-10-29,Salted Lassi,2,70
+2026-10-29,Schezwan Fried Rice,1,190
+2026-10-29,Sizzling Brownie,1,190
+2026-10-29,Tandoori Roti,2,25
+2026-10-29,Tomato Rice,1,130
+2026-10-29,Tomato Soup,3,110
+2026-10-29,Veg Biryani,4,230
+2026-10-29,Veg Kolhapuri,4,220
+2026-10-29,Veg Seekh Kebab,1,200
+2026-10-30,Aloo Paratha,1,70
+2026-10-30,Butter Chicken,3,320
+2026-10-30,Buttermilk,2,40
+2026-10-30,Chicken Biryani,1,290
+2026-10-30,Chilli Paneer,1,210
+2026-10-30,Crispy Corn,1,170
+2026-10-30,Dahi Kebab,4,180
+2026-10-30,Dal Makhani,6,210
+2026-10-30,Dal Tadka,3,170
+2026-10-30,Egg Fried Rice,1,170
+2026-10-30,Filter Coffee,1,50
+2026-10-30,Fish Fingers,3,280
+2026-10-30,Fresh Lime Soda,1,60
+2026-10-30,Fresh Orange Juice,1,90
+2026-10-30,Gajar Halwa,1,110
+2026-10-30,Garlic Naan,2,60
+2026-10-30,Hara Bhara Kebab,2,190
+2026-10-30,Ice Cream Vanilla,3,80
+2026-10-30,Jeera Rice,4,120
+2026-10-30,Kadai Paneer,1,250
+2026-10-30,Kaju Katli,1,150
+2026-10-30,Masala Chai,1,30
+2026-10-30,Missi Roti,2,45
+2026-10-30,Mutton Rogan Josh,1,420
+2026-10-30,Paneer Butter Masala,3,260
+2026-10-30,Paneer Pakoda,1,150
+2026-10-30,Peas Pulao,2,150
+2026-10-30,Samosa,1,60
+2026-10-30,Shahi Tukda,1,130
+2026-10-30,Sweet Lassi,2,80
+2026-10-30,Veg Fried Rice,1,160
+2026-10-30,Watermelon Juice,2,80
+2026-10-31,Aloo Paratha,3,70
+2026-10-31,Butter Chicken,6,320
+2026-10-31,Butter Naan,13,50
+2026-10-31,Buttermilk,1,40
+2026-10-31,Chana Masala,1,190
+2026-10-31,Chicken Biryani,2,290
+2026-10-31,Chicken Fried Rice,1,200
+2026-10-31,Chilli Paneer,1,210
+2026-10-31,Cold Coffee,2,110
+2026-10-31,Cold Drink,1,40
+2026-10-31,Curd Rice,2,110
+2026-10-31,Dum Aloo,1,190
+2026-10-31,Fresh Lime Soda,3,60
+2026-10-31,Garlic Naan,2,60
+2026-10-31,Gulab Jamun,1,90
+2026-10-31,Gulab Jamun with Ice Cream,4,130
+2026-10-31,Jalebi,2,70
+2026-10-31,Jeera Rice,3,120
+2026-10-31,Kadai Paneer,2,250
+2026-10-31,Kheer,2,100
+2026-10-31,Malai Kofta,2,250
+2026-10-31,Manchow Soup,3,125
+2026-10-31,Mango Lassi,1,100
+2026-10-31,Masala Chai,1,30
+2026-10-31,Masala Kulcha,4,65
+2026-10-31,Masala Papad,1,50
+2026-10-31,Mushroom Chilli,1,190
+2026-10-31,Mutton Keema,2,400
+2026-10-31,Paneer Butter Masala,4,260
+2026-10-31,Paneer Kulcha,3,90
+2026-10-31,Paneer Tikka,1,220
+2026-10-31,Peas Pulao,2,150
+2026-10-31,Plain Naan,2,40
+2026-10-31,Rasmalai,2,120
+2026-10-31,Salted Lassi,2,70
+2026-10-31,Shahi Paneer,2,270
+2026-10-31,Stuffed Paratha,2,75
+2026-10-31,Sweet Lassi,2,80
+2026-10-31,Tomato Rice,3,130
+2026-10-31,Veg Manchurian,1,180
+2026-10-31,Veg Spring Roll,2,160
+2026-10-31,Watermelon Juice,1,80
+2026-11-01,Banana Shake,2,110
+2026-11-01,Butter Chicken,1,320
+2026-11-01,Butter Naan,3,50
+2026-11-01,Buttermilk,1,40
+2026-11-01,Cheese Naan,2,85
+2026-11-01,Chicken Biryani,2,290
+2026-11-01,Chilli Paneer,5,210
+2026-11-01,Dal Makhani,1,210
+2026-11-01,Dum Aloo,1,190
+2026-11-01,Fish Curry,2,340
+2026-11-01,Fresh Lime Soda,2,60
+2026-11-01,Garlic Naan,5,60
+2026-11-01,Gulab Jamun,2,90
+2026-11-01,Hot and Sour Soup,1,125
+2026-11-01,Ice Cream Vanilla,2,80
+2026-11-01,Jalebi,1,70
+2026-11-01,Jaljeera,2,50
+2026-11-01,Kadai Paneer,2,250
+2026-11-01,Masala Chai,6,30
+2026-11-01,Mix Veg Curry,1,180
+2026-11-01,Moong Dal Halwa,2,120
+2026-11-01,Mutton Rogan Josh,3,420
+2026-11-01,Onion Pakoda,2,110
+2026-11-01,Paneer Butter Masala,2,260
+2026-11-01,Paneer Kulcha,7,90
+2026-11-01,Paneer Lababdar,2,265
+2026-11-01,Paneer Tikka,5,220
+2026-11-01,Pudina Paratha,2,60
+2026-11-01,Rasmalai,4,120
+2026-11-01,Shahi Paneer,2,270
+2026-11-01,Sizzling Brownie,2,190
+2026-11-01,Stuffed Paratha,6,75
+2026-11-01,Sweet Corn Soup,5,120
+2026-11-01,Tandoori Roti,6,25
+2026-11-01,Veg Biryani,4,230
+2026-11-02,Aloo Tikki,1,120
+2026-11-02,Butter Chicken,4,320
+2026-11-02,Butter Naan,5,50
+2026-11-02,Buttermilk,1,40
+2026-11-02,Cheese Corn Balls,3,175
+2026-11-02,Chicken Biryani,3,290
+2026-11-02,Cold Drink,1,40
+2026-11-02,Curd Rice,2,110
+2026-11-02,Dal Makhani,5,210
+2026-11-02,Dal Tadka,3,170
+2026-11-02,Garlic Naan,4,60
+2026-11-02,Jalebi,2,70
+2026-11-02,Jeera Rice,2,120
+2026-11-02,Kadai Paneer,2,250
+2026-11-02,Kulcha,3,55
+2026-11-02,Masala Soda,2,60
+2026-11-02,Mix Veg Curry,2,180
+2026-11-02,Moong Dal Halwa,2,120
+2026-11-02,Mushroom Chilli,2,190
+2026-11-02,Paneer Butter Masala,2,260
+2026-11-02,Paneer Pakoda,4,150
+2026-11-02,Paneer Tikka,3,220
+2026-11-02,Rumali Roti,2,35
+2026-11-02,Sweet Corn Soup,3,120
+2026-11-02,Sweet Lassi,2,80
+2026-11-02,Veg Biryani,4,230
+2026-11-02,Whole Wheat Roti,4,20
+2026-11-03,Aloo Gobi,2,170
+2026-11-03,Butter Naan,1,50
+2026-11-03,Chicken Biryani,2,290
+2026-11-03,Chilli Paneer,2,210
+2026-11-03,Cold Coffee,3,110
+2026-11-03,Cold Drink,1,40
+2026-11-03,Dal Tadka,1,170
+2026-11-03,Fish Curry,1,340
+2026-11-03,Fresh Lime Soda,1,60
+2026-11-03,Fruit Salad,1,110
+2026-11-03,Garlic Naan,4,60
+2026-11-03,Gulab Jamun,3,90
+2026-11-03,Gulab Jamun with Ice Cream,1,130
+2026-11-03,Honey Chilli Potato,1,170
+2026-11-03,Kadai Paneer,4,250
+2026-11-03,Keema Naan,4,110
+2026-11-03,Kheer,3,100
+2026-11-03,Laccha Paratha,2,55
+2026-11-03,Manchow Soup,2,125
+2026-11-03,Mineral Water,1,20
+2026-11-03,Mushroom Chilli,1,190
+2026-11-03,Paneer Kulcha,2,90
+2026-11-03,Paneer Lababdar,1,265
+2026-11-03,Paneer Tikka,4,220
+2026-11-03,Peas Pulao,2,150
+2026-11-03,Schezwan Fried Rice,2,190
+2026-11-03,Sweet Lassi,3,80
+2026-11-03,Tandoori Chicken,1,290
+2026-11-03,Tandoori Roti,3,25
+2026-11-03,Veg Kolhapuri,2,220
+2026-11-03,Veg Pulao,2,170
+2026-11-03,Veg Seekh Kebab,2,200
+2026-11-04,Banana Shake,2,110
+2026-11-04,Butter Chicken,1,320
+2026-11-04,Butter Naan,12,50
+2026-11-04,Chicken Biryani,5,290
+2026-11-04,Chilli Paneer,1,210
+2026-11-04,Cold Coffee,1,110
+2026-11-04,Curd Rice,2,110
+2026-11-04,Cutting Chai,2,20
+2026-11-04,Dahi Kebab,1,180
+2026-11-04,Dal Tadka,2,170
+2026-11-04,Dum Biryani,1,300
+2026-11-04,Egg Curry,2,200
+2026-11-04,Fish Curry,2,340
+2026-11-04,Garlic Naan,2,60
+2026-11-04,Gulab Jamun,2,90
+2026-11-04,Hot and Sour Soup,4,125
+2026-11-04,Ice Cream Vanilla,1,80
+2026-11-04,Jalebi,3,70
+2026-11-04,Jeera Rice,3,120
+2026-11-04,Kadai Paneer,2,250
+2026-11-04,Masala Chai,3,30
+2026-11-04,Masala Kulcha,5,65
+2026-11-04,Masala Papad,2,50
+2026-11-04,Moong Dal Halwa,4,120
+2026-11-04,Paneer Tikka,2,220
+2026-11-04,Roomali Roti,3,35
+2026-11-04,Sizzling Brownie,1,190
+2026-11-04,Stuffed Paratha,3,75
+2026-11-04,Sweet Lassi,2,80
+2026-11-04,Tandoori Chicken,2,290
+2026-11-04,Tomato Rice,1,130
+2026-11-05,Brownie with Ice Cream,1,160
+2026-11-05,Butter Chicken,3,320
+2026-11-05,Butter Roti,4,30
+2026-11-05,Cheese Corn Balls,1,175
+2026-11-05,Chicken Fried Rice,2,200
+2026-11-05,Cold Coffee,1,110
+2026-11-05,Dal Makhani,6,210
+2026-11-05,Dal Tadka,2,170
+2026-11-05,Dum Aloo,4,190
+2026-11-05,Fresh Lime Soda,2,60
+2026-11-05,Garlic Naan,3,60
+2026-11-05,Iced Tea,1,90
+2026-11-05,Kadai Chicken,1,310
+2026-11-05,Keema Naan,2,110
+2026-11-05,Laccha Paratha,4,55
+2026-11-05,Malai Kofta,1,250
+2026-11-05,Masala Chai,1,30
+2026-11-05,Palak Paneer,3,240
+2026-11-05,Paneer Butter Masala,2,260
+2026-11-05,Paneer Kulcha,4,90
+2026-11-05,Paneer Tikka,3,220
+2026-11-05,Peshawari Naan,2,95
+2026-11-05,Samosa,3,60
+2026-11-05,Sweet Lassi,4,80
+2026-11-05,Tandoori Roti,5,25
+2026-11-05,Veg Biryani,5,230
+2026-11-05,Veg Pulao,4,170
+2026-11-06,Aloo Gobi,1,170
+2026-11-06,Baingan Bharta,1,190
+2026-11-06,Butter Naan,3,50
+2026-11-06,Chicken Tikka Masala,1,330
+2026-11-06,Cold Drink,4,40
+2026-11-06,Dum Aloo,2,190
+2026-11-06,Dum Biryani,2,300
+2026-11-06,Falooda,2,150
+2026-11-06,Fruit Salad,3,110
+2026-11-06,Garlic Naan,5,60
+2026-11-06,Gulab Jamun,5,90
+2026-11-06,Ice Cream Vanilla,2,80
+2026-11-06,Kaju Katli,3,150
+2026-11-06,Lemon Rice,1,130
+2026-11-06,Mango Lassi,1,100
+2026-11-06,Masala Chai,5,30
+2026-11-06,Moong Dal Halwa,1,120
+2026-11-06,Onion Pakoda,1,110
+2026-11-06,Paneer Butter Masala,1,260
+2026-11-06,Paneer Pakoda,1,150
+2026-11-06,Paneer Tikka,3,220
+2026-11-06,Peas Pulao,1,150
+2026-11-06,Peshawari Naan,1,95
+2026-11-06,Rajma Masala,2,180
+2026-11-06,Samosa,2,60
+2026-11-06,Schezwan Fried Rice,3,190
+2026-11-06,Sundae,3,140
+2026-11-06,Tandoori Chicken,1,290
+2026-11-06,Tomato Rice,1,130
+2026-11-06,Veg Biryani,2,230
+2026-11-06,Veg Kolhapuri,1,220
+2026-11-06,Veg Seekh Kebab,3,200
+2026-11-07,Baingan Bharta,3,190
+2026-11-07,Brownie with Ice Cream,1,160
+2026-11-07,Butter Chicken,1,320
+2026-11-07,Butter Naan,6,50
+2026-11-07,Butter Roti,3,30
+2026-11-07,Buttermilk,1,40
+2026-11-07,Cheese Naan,3,85
+2026-11-07,Chicken Biryani,2,290
+2026-11-07,Chicken Curry,1,290
+2026-11-07,Chilli Paneer,1,210
+2026-11-07,Cold Coffee,6,110
+2026-11-07,Cold Drink,8,40
+2026-11-07,Dahi Kebab,2,180
+2026-11-07,Dal Makhani,5,210
+2026-11-07,Dal Tadka,2,170
+2026-11-07,Egg Fried Rice,4,170
+2026-11-07,Falooda,1,150
+2026-11-07,Fresh Lime Soda,2,60
+2026-11-07,Fresh Orange Juice,2,90
+2026-11-07,Garlic Naan,4,60
+2026-11-07,Gulab Jamun,2,90
+2026-11-07,Gulab Jamun with Ice Cream,1,130
+2026-11-07,Hyderabadi Biryani,1,310
+2026-11-07,Jaljeera,1,50
+2026-11-07,Kadai Paneer,1,250
+2026-11-07,Lemon Rice,1,130
+2026-11-07,Malai Kofta,1,250
+2026-11-07,Masala Chai,5,30
+2026-11-07,Missi Roti,4,45
+2026-11-07,Paneer Biryani,4,260
+2026-11-07,Paneer Butter Masala,1,260
+2026-11-07,Paneer Kulcha,3,90
+2026-11-07,Rajma Masala,1,180
+2026-11-07,Rasmalai,3,120
+2026-11-07,Roomali Roti,3,35
+2026-11-07,Samosa,3,60
+2026-11-07,Sizzling Brownie,1,190
+2026-11-07,Tandoori Roti,6,25
+2026-11-07,Veg Biryani,5,230
+2026-11-07,Veg Pulao,1,170
+2026-11-08,Butter Chicken,1,320
+2026-11-08,Butter Naan,4,50
+2026-11-08,Chana Masala,1,190
+2026-11-08,Chicken 65,2,250
+2026-11-08,Chicken Curry,1,290
+2026-11-08,Chilli Paneer,3,210
+2026-11-08,Cold Coffee,2,110
+2026-11-08,Cold Drink,2,40
+2026-11-08,Dal Makhani,2,210
+2026-11-08,Dal Tadka,1,170
+2026-11-08,Egg Biryani,1,220
+2026-11-08,Fish Curry,1,340
+2026-11-08,Fresh Lime Soda,1,60
+2026-11-08,Fresh Orange Juice,7,90
+2026-11-08,Garlic Naan,4,60
+2026-11-08,Green Tea,1,50
+2026-11-08,Gulab Jamun,1,90
+2026-11-08,Honey Chilli Potato,1,170
+2026-11-08,Ice Cream Chocolate,2,90
+2026-11-08,Jeera Rice,2,120
+2026-11-08,Kadai Paneer,3,250
+2026-11-08,Kaju Katli,1,150
+2026-11-08,Kulfi,2,90
+2026-11-08,Malai Kofta,1,250
+2026-11-08,Masala Chai,3,30
+2026-11-08,Masala Soda,1,60
+2026-11-08,Paneer Butter Masala,2,260
+2026-11-08,Paneer Lababdar,4,265
+2026-11-08,Paneer Tikka,8,220
+2026-11-08,Phirni,2,100
+2026-11-08,Plain Naan,4,40
+2026-11-08,Pudina Paratha,5,60
+2026-11-08,Rasgulla,5,80
+2026-11-08,Samosa,3,60
+2026-11-08,Shahi Tukda,2,130
+2026-11-08,Steamed Rice,2,90
+2026-11-08,Sweet Lassi,10,80
+2026-11-08,Tandoori Chicken,1,290
+2026-11-08,Tandoori Roti,2,25
+2026-11-08,Watermelon Juice,6,80
+2026-11-08,Whole Wheat Roti,1,20
+2026-11-09,Aloo Paratha,3,70
+2026-11-09,Aloo Tikki,1,120
+2026-11-09,Banana Shake,2,110
+2026-11-09,Butter Chicken,8,320
+2026-11-09,Buttermilk,4,40
+2026-11-09,Chana Masala,3,190
+2026-11-09,Chicken Biryani,1,290
+2026-11-09,Cold Drink,4,40
+2026-11-09,Dal Makhani,4,210
+2026-11-09,Egg Curry,1,200
+2026-11-09,Fresh Orange Juice,3,90
+2026-11-09,Garlic Naan,1,60
+2026-11-09,Iced Tea,4,90
+2026-11-09,Jalebi,3,70
+2026-11-09,Jaljeera,1,50
+2026-11-09,Jeera Rice,5,120
+2026-11-09,Kadai Paneer,2,250
+2026-11-09,Kulcha,4,55
+2026-11-09,Kulfi,2,90
+2026-11-09,Malai Kofta,2,250
+2026-11-09,Manchow Soup,1,125
+2026-11-09,Masala Chai,3,30
+2026-11-09,Paneer Butter Masala,6,260
+2026-11-09,Shahi Paneer,1,270
+2026-11-09,Sweet Lassi,2,80
+2026-11-09,Veg Biryani,5,230
+2026-11-09,Veg Seekh Kebab,1,200
+2026-11-09,Whole Wheat Roti,3,20
+2026-11-10,Banana Shake,1,110
+2026-11-10,Bhindi Masala,1,180
+2026-11-10,Butter Chicken,4,320
+2026-11-10,Chicken Biryani,2,290
+2026-11-10,Chicken Fried Rice,4,200
+2026-11-10,Chilli Paneer,2,210
+2026-11-10,Dal Makhani,5,210
+2026-11-10,Falooda,2,150
+2026-11-10,Fresh Lime Soda,3,60
+2026-11-10,Fresh Orange Juice,4,90
+2026-11-10,Green Tea,1,50
+2026-11-10,Gulab Jamun with Ice Cream,1,130
+2026-11-10,Hot and Sour Soup,1,125
+2026-11-10,Jeera Rice,1,120
+2026-11-10,Kadai Paneer,7,250
+2026-11-10,Kheer,2,100
+2026-11-10,Kulcha,3,55
+2026-11-10,Malai Chicken Tikka,1,270
+2026-11-10,Mutton Biryani,1,380
+2026-11-10,Paneer Butter Masala,4,260
+2026-11-10,Paneer Lababdar,2,265
+2026-11-10,Paneer Tikka,1,220
+2026-11-10,Rasgulla,1,80
+2026-11-10,Sweet Lassi,5,80
+2026-11-10,Veg Biryani,1,230
+2026-11-10,Veg Fried Rice,1,160
+2026-11-10,Veg Kolhapuri,2,220
+2026-11-10,Veg Spring Roll,3,160
+2026-11-11,Butter Chicken,1,320
+2026-11-11,Butter Naan,1,50
+2026-11-11,Buttermilk,1,40
+2026-11-11,Chicken Biryani,1,290
+2026-11-11,Chilli Paneer,3,210
+2026-11-11,Chocolate Shake,2,130
+2026-11-11,Cold Coffee,6,110
+2026-11-11,Cold Drink,1,40
+2026-11-11,Dal Makhani,4,210
+2026-11-11,Dal Tadka,3,170
+2026-11-11,Garlic Naan,4,60
+2026-11-11,Jeera Rice,4,120
+2026-11-11,Kadai Paneer,3,250
+2026-11-11,Malai Kofta,1,250
+2026-11-11,Mango Lassi,1,100
+2026-11-11,Masala Chai,3,30
+2026-11-11,Mineral Water,1,20
+2026-11-11,Paneer Biryani,4,260
+2026-11-11,Paneer Lababdar,3,265
+2026-11-11,Paneer Tikka,1,220
+2026-11-11,Pudina Paratha,1,60
+2026-11-11,Rumali Roti,2,35
+2026-11-11,Samosa,1,60
+2026-11-11,Sweet Corn Soup,2,120
+2026-11-11,Sweet Lassi,5,80
+2026-11-11,Veg Biryani,6,230
+2026-11-12,Butter Chicken,2,320
+2026-11-12,Butter Roti,3,30
+2026-11-12,Chana Masala,2,190
+2026-11-12,Cheese Corn Balls,1,175
+2026-11-12,Chicken Biryani,4,290
+2026-11-12,Chocolate Mousse,3,140
+2026-11-12,Cold Coffee,2,110
+2026-11-12,Crispy Corn,1,170
+2026-11-12,Curd Rice,5,110
+2026-11-12,Dal Tadka,2,170
+2026-11-12,Egg Biryani,2,220
+2026-11-12,Egg Fried Rice,1,170
+2026-11-12,Fish Curry,3,340
+2026-11-12,Garlic Naan,2,60
+2026-11-12,Green Tea,1,50
+2026-11-12,Gulab Jamun,2,90
+2026-11-12,Jeera Rice,2,120
+2026-11-12,Kadai Paneer,2,250
+2026-11-12,Malai Kofta,1,250
+2026-11-12,Masala Chai,5,30
+2026-11-12,Mushroom Chilli,2,190
+2026-11-12,Paneer Butter Masala,3,260
+2026-11-12,Paneer Tikka,2,220
+2026-11-12,Steamed Rice,1,90
+2026-11-12,Sweet Lassi,4,80
+2026-11-12,Tandoori Roti,6,25
+2026-11-12,Veg Biryani,6,230
+2026-11-12,Veg Fried Rice,1,160
+2026-11-13,Aloo Tikki,3,120
+2026-11-13,Amritsari Kulcha,5,80
+2026-11-13,Butter Chicken,2,320
+2026-11-13,Butter Naan,3,50
+2026-11-13,Chicken Fried Rice,2,200
+2026-11-13,Chilli Paneer,2,210
+2026-11-13,Cold Coffee,1,110
+2026-11-13,Cold Drink,3,40
+2026-11-13,Dal Makhani,2,210
+2026-11-13,Dal Tadka,3,170
+2026-11-13,Egg Curry,2,200
+2026-11-13,Fruit Salad,2,110
+2026-11-13,Gulab Jamun,5,90
+2026-11-13,Honey Chilli Potato,1,170
+2026-11-13,Hyderabadi Biryani,1,310
+2026-11-13,Jaljeera,1,50
+2026-11-13,Kadai Paneer,1,250
+2026-11-13,Kaju Katli,1,150
+2026-11-13,Kheer,3,100
+2026-11-13,Masala Chai,4,30
+2026-11-13,Mix Veg Curry,1,180
+2026-11-13,Moong Dal Halwa,1,120
+2026-11-13,Paneer Pakoda,1,150
+2026-11-13,Peshawari Naan,4,95
+2026-11-13,Plain Naan,4,40
+2026-11-13,Shahi Tukda,1,130
+2026-11-13,Sundae,3,140
+2026-11-13,Tandoori Roti,2,25
+2026-11-13,Veg Biryani,2,230
+2026-11-14,Aloo Paratha,2,70
+2026-11-14,Amritsari Kulcha,1,80
+2026-11-14,Baingan Bharta,2,190
+2026-11-14,Brownie with Ice Cream,2,160
+2026-11-14,Butter Chicken,1,320
+2026-11-14,Butter Roti,3,30
+2026-11-14,Cheese Corn Balls,4,175
+2026-11-14,Chicken Biryani,4,290
+2026-11-14,Chilli Paneer,3,210
+2026-11-14,Cold Coffee,1,110
+2026-11-14,Dal Makhani,1,210
+2026-11-14,Dal Tadka,2,170
+2026-11-14,Egg Curry,1,200
+2026-11-14,Filter Coffee,2,50
+2026-11-14,Fish Curry,2,340
+2026-11-14,Fresh Lime Soda,1,60
+2026-11-14,Garlic Naan,4,60
+2026-11-14,Green Tea,1,50
+2026-11-14,Gulab Jamun,1,90
+2026-11-14,Gulab Jamun with Ice Cream,1,130
+2026-11-14,Hyderabadi Biryani,2,310
+2026-11-14,Ice Cream Chocolate,1,90
+2026-11-14,Jeera Rice,1,120
+2026-11-14,Kaju Katli,2,150
+2026-11-14,Masala Chai,4,30
+2026-11-14,Masala Soda,1,60
+2026-11-14,Mix Veg Curry,3,180
+2026-11-14,Mojito,1,110
+2026-11-14,Mutton Biryani,1,380
+2026-11-14,Onion Pakoda,2,110
+2026-11-14,Paneer Kulcha,1,90
+2026-11-14,Paneer Tikka,5,220
+2026-11-14,Rasmalai,5,120
+2026-11-14,Rumali Roti,4,35
+2026-11-14,Sizzling Brownie,1,190
+2026-11-14,Sweet Corn Soup,4,120
+2026-11-14,Sweet Lassi,2,80
+2026-11-14,Tandoori Roti,8,25
+2026-11-14,Tomato Rice,2,130
+2026-11-14,Veg Biryani,3,230
+2026-11-14,Veg Fried Rice,1,160
+2026-11-15,Aloo Tikki,2,120
+2026-11-15,Amritsari Kulcha,1,80
+2026-11-15,Chicken Biryani,4,290
+2026-11-15,Chilli Paneer,2,210
+2026-11-15,Cold Coffee,4,110
+2026-11-15,Cold Drink,4,40
+2026-11-15,Dal Makhani,3,210
+2026-11-15,Dal Tadka,1,170
+2026-11-15,Egg Curry,1,200
+2026-11-15,Fish Curry,4,340
+2026-11-15,Fresh Lime Soda,7,60
+2026-11-15,Honey Chilli Potato,1,170
+2026-11-15,Hyderabadi Biryani,2,310
+2026-11-15,Kadai Paneer,2,250
+2026-11-15,Khichdi,2,140
+2026-11-15,Kulcha,2,55
+2026-11-15,Manchow Soup,2,125
+2026-11-15,Masala Chai,4,30
+2026-11-15,Mojito,5,110
+2026-11-15,Moong Dal Halwa,1,120
+2026-11-15,Mutton Rogan Josh,1,420
+2026-11-15,Onion Pakoda,3,110
+2026-11-15,Palak Paneer,2,240
+2026-11-15,Paneer Butter Masala,2,260
+2026-11-15,Paneer Tikka,5,220
+2026-11-15,Peshawari Naan,2,95
+2026-11-15,Phirni,2,100
+2026-11-15,Plain Naan,3,40
+2026-11-15,Rasmalai,3,120
+2026-11-15,Samosa,4,60
+2026-11-15,Tandoori Roti,11,25
+2026-11-15,Veg Biryani,3,230
+2026-11-15,Veg Seekh Kebab,1,200
+2026-11-15,Watermelon Juice,1,80
+2026-11-16,Aloo Tikki,1,120
+2026-11-16,Amritsari Kulcha,3,80
+2026-11-16,Butter Chicken,2,320
+2026-11-16,Cheese Corn Balls,1,175
+2026-11-16,Chicken Biryani,1,290
+2026-11-16,Chicken Tikka Masala,1,330
+2026-11-16,Cold Coffee,4,110
+2026-11-16,Cold Drink,2,40
+2026-11-16,Dal Makhani,4,210
+2026-11-16,Dal Tadka,1,170
+2026-11-16,Egg Biryani,1,220
+2026-11-16,Falooda,2,150
+2026-11-16,Fish Curry,1,340
+2026-11-16,Fish Fingers,4,280
+2026-11-16,Fresh Lime Soda,3,60
+2026-11-16,Ice Cream Chocolate,2,90
+2026-11-16,Kadai Paneer,2,250
+2026-11-16,Kaju Katli,1,150
+2026-11-16,Malai Kofta,2,250
+2026-11-16,Manchow Soup,1,125
+2026-11-16,Masala Chai,1,30
+2026-11-16,Moong Dal Halwa,1,120
+2026-11-16,Paneer Tikka,1,220
+2026-11-16,Peas Pulao,2,150
+2026-11-16,Plain Naan,1,40
+2026-11-16,Rasmalai,1,120
+2026-11-16,Samosa,2,60
+2026-11-16,Schezwan Fried Rice,1,190
+2026-11-16,Sizzling Brownie,1,190
+2026-11-16,Steamed Rice,1,90
+2026-11-16,Sweet Lassi,2,80
+2026-11-16,Tandoori Roti,3,25
+2026-11-16,Tomato Rice,3,130
+2026-11-16,Veg Kolhapuri,2,220
+2026-11-16,Veg Manchurian,2,180
+2026-11-17,Aloo Paratha,3,70
+2026-11-17,Brownie with Ice Cream,1,160
+2026-11-17,Butter Chicken,1,320
+2026-11-17,Buttermilk,1,40
+2026-11-17,Chicken Biryani,1,290
+2026-11-17,Chilli Paneer,2,210
+2026-11-17,Cold Coffee,1,110
+2026-11-17,Cold Drink,4,40
+2026-11-17,Crispy Corn,1,170
+2026-11-17,Cutting Chai,2,20
+2026-11-17,Filter Coffee,1,50
+2026-11-17,Garlic Naan,4,60
+2026-11-17,Gulab Jamun,5,90
+2026-11-17,Ice Cream Vanilla,1,80
+2026-11-17,Iced Tea,2,90
+2026-11-17,Jalebi,1,70
+2026-11-17,Jeera Rice,1,120
+2026-11-17,Khichdi,2,140
+2026-11-17,Mushroom Chilli,1,190
+2026-11-17,Mutton Rogan Josh,2,420
+2026-11-17,Paneer Butter Masala,5,260
+2026-11-17,Paneer Lababdar,2,265
+2026-11-17,Paneer Tikka,6,220
+2026-11-17,Schezwan Fried Rice,1,190
+2026-11-17,Sundae,1,140
+2026-11-17,Sweet Lassi,4,80
+2026-11-17,Tandoori Roti,5,25
+2026-11-17,Veg Biryani,1,230
+2026-11-17,Veg Manchurian,3,180
+2026-11-17,Veg Seekh Kebab,1,200
